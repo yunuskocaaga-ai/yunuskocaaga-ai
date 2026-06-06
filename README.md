@@ -10,7 +10,7 @@ Bilişim Sistemleri Mühendisliği öğrencisiyim. AI destekli geliştirme araç
 - Web tabanlı projeler
 - SaaS fikirleri
 - Dijital ürün geliştirme
-- Temel backend ve veritabanı yapıları
+- Backend ve veritabanı mantığını öğrenme
 
 ## Şu Anda Üzerinde Çalıştıklarım
 
@@ -21,4 +21,3 @@ Bilişim Sistemleri Mühendisliği öğrencisiyim. AI destekli geliştirme araç
 ## Bağlantılar
 
 - LinkedIn: https://www.linkedin.com/in/yunusemrekocaaga
-
