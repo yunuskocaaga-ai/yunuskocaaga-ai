@@ -1,16 +1,24 @@
-## Hi there 👋
+# Yunus Emre Kocaağa
 
-<!--
-**yunuskocaaga-ai/yunuskocaaga-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilişim Sistemleri Mühendisliği öğrencisiyim. AI destekli geliştirme araçlarıyla web tabanlı projeler üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+Şu anda özellikle Claude Code ile proje geliştirme süreçlerini, temel yazılım mantığını, kod incelemeyi ve hata çözümlemeyi öğrenmeye odaklanıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## İlgi Alanlarım
+
+- AI destekli geliştirme araçları
+- Web tabanlı projeler
+- SaaS fikirleri
+- Dijital ürün geliştirme
+- Temel backend ve veritabanı yapıları
+
+## Şu Anda Üzerinde Çalıştıklarım
+
+- Claude Code ile proje geliştirme pratiği
+- Web uygulaması mantığını öğrenme
+- Fikirleri uygulanabilir dijital ürünlere dönüştürme süreci
+
+## Bağlantılar
+
+- LinkedIn: https://www.linkedin.com/in/yunusemrekocaaga
+
